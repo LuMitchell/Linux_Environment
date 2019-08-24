@@ -1,4 +1,4 @@
-#PDO连接数据库报错：SQLSTATE[HY000] [2002] No such file or directory
+# PDO连接数据库报错：SQLSTATE[HY000] [2002] No such file or directory
 
 
 一开始搜到的办法是
