@@ -6,10 +6,10 @@
 
 然后修改密码政策出现
 
-(```)
+```
 mysql>  set global validate_password_policy=0;
 ERROR 1193 (HY000): Unknown system variable 'validate_password_policy'
-(```)
+```
 
 找到原因
 在MySQL 8.0之前参数是
