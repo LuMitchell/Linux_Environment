@@ -1,6 +1,6 @@
 # Docker
 
-*** 建议 不要用 root 操作
+*** 建议 不要用 root 操作 ***
 
 使用阿里云镜像 [地址](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
 或其他镜像服务
